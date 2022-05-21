@@ -1,0 +1,35 @@
+{
+  "name": "jpcodedev_link",
+  "version": "1.0.0",
+  "description": "Mini HTTP2 server for easy redirects/links",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Paul-R/jpcodedev_link.git"
+  },
+  "keywords": [
+    "redirect",
+    "link",
+    "node",
+    "server"
+  ],
+  "author": {
+    "name": "John Paul Rutigliano",
+    "email": "jp@jpcode.dev",
+    "url": "https://www.jpcode.dev"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/John-Paul-R/jpcodedev_link/issues"
+  },
+  "homepage": "https://github.com/John-Paul-R/jpcodedev_link#readme",
+  "dependencies": {
+    "log4js": "^6.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
